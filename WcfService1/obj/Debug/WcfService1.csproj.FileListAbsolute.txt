@@ -1,0 +1,13 @@
+c:\users\nihal\documents\visual studio 2017\Projects\WcfService1\WcfService1\bin\WcfService1.dll.config
+c:\users\nihal\documents\visual studio 2017\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+c:\users\nihal\documents\visual studio 2017\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+c:\users\nihal\documents\visual studio 2017\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+c:\users\nihal\documents\visual studio 2017\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+c:\users\nihal\documents\visual studio 2017\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\bin\WcfService1.dll.config
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\bin\WcfService1.dll
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\bin\WcfService1.pdb
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Nihal\Desktop\Veri tabanı ödevi\Quora_Service\WcfService1\obj\Debug\WcfService1.pdb
