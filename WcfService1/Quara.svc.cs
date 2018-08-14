@@ -28,7 +28,7 @@ namespace WcfService1
             {
                 LoginAllDelete(Convert.ToInt32(value)); // Üyeye ait sessionları silme işlemidir.
                 connection.Open();
-                sessionKey = Guid.NewGuid().ToString("N").ToUpper(); // Rastlege session üretme işlemidir. C'deki random gibidir.
+                sessionKey = Guid.NewGuid().ToString("N").ToUpper(); // Rastgele session üretme işlemidir. C'deki random gibidir.
 
                 SqlCommand userSessionCmd = new SqlCommand("INSERT INTO dbo.User_Session (User_Session_id,User_login_id,Session_Key,Creation_Date,Update_Date) VALUES (@UserSessionId,@UserLoginId,@SessionKey,@CreationDate,@UpdateDate)", connection);
                 SqlCommand userSessionMaxCmd = new SqlCommand("SELECT ISNULL(MAX(us.User_session_id),0) from dbo.User_Session us", connection); // Eğer boş ise 0 değeri atanmaktadır.
